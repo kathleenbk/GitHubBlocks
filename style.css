@@ -40,3 +40,10 @@ h1 {
     align-items: center;
     justify-content: space-between;
 }
+
+.link {
+    text-align: center;
+}
+p {
+    display:inline;
+}
